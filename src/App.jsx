@@ -6,7 +6,7 @@ import NotFound from "./pages/NotFound.jsx"
 import CreateVapiConversation from "./pages/create-vapi-conversation.jsx"
 import ViewVapiConversation from "./pages/view-vapi-conversation.jsx"
 import Insights from "./pages/insights.jsx"
-import "./css/App.css"
+import "./css/app.css"
 import "./css/global.css"
 
 function App() {
